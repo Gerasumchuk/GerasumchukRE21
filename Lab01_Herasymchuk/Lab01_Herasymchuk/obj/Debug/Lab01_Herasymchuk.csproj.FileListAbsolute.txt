@@ -1,0 +1,11 @@
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\bin\Debug\Lab01_Herasymchuk.exe.config
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\bin\Debug\Lab01_Herasymchuk.exe
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\bin\Debug\Lab01_Herasymchuk.pdb
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.csproj.AssemblyReference.cache
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.csproj.SuggestedBindingRedirects.cache
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.Form1.resources
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.Properties.Resources.resources
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.csproj.GenerateResource.cache
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.csproj.CoreCompileInputs.cache
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.exe
+C:\UNIVER\RTF\Labs\Lab01_Herasymchuk\Lab01_Herasymchuk\obj\Debug\Lab01_Herasymchuk.pdb
