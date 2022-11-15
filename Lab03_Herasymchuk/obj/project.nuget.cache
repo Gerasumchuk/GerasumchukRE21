@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjW34q/qs2sU2a7de1tNstTufyIFlH0M4/9xRAPKbNHyRYU+6I5IOYpsabJ614GgUTFcnMa5dsl+NCSHc4Tbug==",
+  "success": true,
+  "projectFilePath": "C:\\UNIVER\\RTF\\Labs\\Lab03_Herasymchuk\\Lab03_Herasymchuk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bomz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Bomz\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
