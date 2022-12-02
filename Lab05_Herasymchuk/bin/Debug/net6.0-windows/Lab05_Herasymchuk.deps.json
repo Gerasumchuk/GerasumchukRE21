@@ -1,0 +1,144 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lab05_Herasymchuk/1.0.0": {
+        "dependencies": {
+          "ChilkatDnCore": "9.5.0.93",
+          "ChilkatNativeLib": "9.5.0.93",
+          "HashLib": "2.0.1",
+          "RIPEMD160": "1.0.0",
+          "chilkat-x64": "9.5.0.93"
+        },
+        "runtime": {
+          "Lab05_Herasymchuk.dll": {}
+        }
+      },
+      "chilkat-x64/9.5.0.93": {
+        "runtime": {
+          "lib/net461/ChilkatDotNet46.dll": {
+            "assemblyVersion": "9.5.0.93",
+            "fileVersion": "9.5.0.93"
+          }
+        }
+      },
+      "ChilkatDnCore/9.5.0.93": {
+        "dependencies": {
+          "ChilkatNativeLib": "9.5.0.93"
+        },
+        "runtime": {
+          "lib/net6.0/ChilkatDnCore.dll": {
+            "assemblyVersion": "9.5.0.93",
+            "fileVersion": "9.5.0.93"
+          }
+        }
+      },
+      "ChilkatNativeLib/9.5.0.93": {
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libchilkatDnCore-9_5_0.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libchilkatDnCore-9_5_0.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/libchilkatDnCore-9_5_0.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libchilkatDnCore-9_5_0.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-arm64/native/libchilkatDnCore-9_5_0.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libchilkatDnCore-9_5_0.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/chilkatDnCore-9_5_0.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/chilkatDnCore-9_5_0.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "HashLib/2.0.1": {
+        "runtime": {
+          "lib/net40/HashLib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "RIPEMD160/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.0/RIPEMD160.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab05_Herasymchuk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "chilkat-x64/9.5.0.93": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-scOroJ1ZHMVJw3QroKYKw4rX/EKq5EelUtYWNgs0Rgaek6AVM5609PZqEBiYkP2NmwoG5Gp6YIKCdAOMgYPJ/g==",
+      "path": "chilkat-x64/9.5.0.93",
+      "hashPath": "chilkat-x64.9.5.0.93.nupkg.sha512"
+    },
+    "ChilkatDnCore/9.5.0.93": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-33ZQSmpWzJfRAtvDc8gQBYe84lSZ/3SmNpydvJJBn/qBp1DLBxpBPZTqhW+XmD4xGVBo5lx3VWViGTRn2YjETA==",
+      "path": "chilkatdncore/9.5.0.93",
+      "hashPath": "chilkatdncore.9.5.0.93.nupkg.sha512"
+    },
+    "ChilkatNativeLib/9.5.0.93": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HMt4ic4+OJXr4vxPkYBD7d1qE2p19A2k/udsMsymS4Zo5VSrzmWUMi9xyb5s4m5Pi/xJYS/jBoKfRx90ohNUeA==",
+      "path": "chilkatnativelib/9.5.0.93",
+      "hashPath": "chilkatnativelib.9.5.0.93.nupkg.sha512"
+    },
+    "HashLib/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-B6cMEP6s+ucLpzY6NAByHf8GF/pqm+9YqFS9d4+qEm73VY+r/q1xIwdBwMoVL/SX35HPJFKupaQvgtL9xnf9tA==",
+      "path": "hashlib/2.0.1",
+      "hashPath": "hashlib.2.0.1.nupkg.sha512"
+    },
+    "RIPEMD160/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7E+oKx+nalm9wuE1Adze0QRRjYvF8VMBay4ZHdN0i8l2XhsczvG0I4FmUteH1tcaFQ1wsBhZCtj2pf8C1Ofy3Q==",
+      "path": "ripemd160/1.0.0",
+      "hashPath": "ripemd160.1.0.0.nupkg.sha512"
+    }
+  }
+}
