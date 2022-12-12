@@ -1,0 +1,17 @@
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\bin\Debug\net6.0-windows\Lab07V2_Herasymchuk.exe
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\bin\Debug\net6.0-windows\Lab07V2_Herasymchuk.deps.json
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\bin\Debug\net6.0-windows\Lab07V2_Herasymchuk.runtimeconfig.json
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\bin\Debug\net6.0-windows\Lab07V2_Herasymchuk.dll
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\bin\Debug\net6.0-windows\Lab07V2_Herasymchuk.pdb
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.csproj.AssemblyReference.cache
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.Form1.resources
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.csproj.GenerateResource.cache
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.AssemblyInfoInputs.cache
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.AssemblyInfo.cs
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.csproj.CoreCompileInputs.cache
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.dll
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\refint\Lab07V2_Herasymchuk.dll
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.pdb
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\Lab07V2_Herasymchuk.genruntimeconfig.cache
+C:\UNIVER\RTF\Labs\Lab07V2_Herasymchuk\obj\Debug\net6.0-windows\ref\Lab07V2_Herasymchuk.dll
